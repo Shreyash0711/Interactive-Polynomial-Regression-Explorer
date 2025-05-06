@@ -21,14 +21,6 @@ You can:
 
 ---
 
-## 📂 File Structure
-.
-├── app.py # Main Streamlit app
-├── Ice_cream selling data.csv # Sample dataset
-├── README.md
-
----
-
 ## requirements
 - pip install streamlit plotly pandas numpy scikit-learn
 
