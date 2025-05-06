@@ -26,3 +26,22 @@ You can:
 ├── app.py # Main Streamlit app
 ├── Ice_cream selling data.csv # Sample dataset
 ├── README.md
+
+---
+
+## requirements
+- pip install streamlit plotly pandas numpy scikit-learn
+
+🧠 Use Case
+- This tool is ideal for:
+- Data science education
+- Regression concept demos
+- Experimenting with real-world data behavior
+  
+
+🛠️ Built With
+- Streamlit
+- Plotly
+- scikit-learn
+- pandas
+- numpy
