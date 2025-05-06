@@ -24,12 +24,15 @@ You can:
 ## requirements
 - pip install streamlit plotly pandas numpy scikit-learn
 
+---
+
 🧠 Use Case
 - This tool is ideal for:
 - Data science education
 - Regression concept demos
 - Experimenting with real-world data behavior
   
+---
 
 🛠️ Built With
 - Streamlit
@@ -37,3 +40,8 @@ You can:
 - scikit-learn
 - pandas
 - numpy
+
+---
+
+##Run
+- streamlit run app.py
