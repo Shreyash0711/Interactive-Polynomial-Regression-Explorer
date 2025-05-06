@@ -21,11 +21,8 @@ You can:
 
 ---
 
-## 🖥️ Live Demo
-
-> _(Optional: Host on Streamlit Cloud and put your link here.)_
-
----
-
 ## 📂 File Structure
-
+.
+├── app.py # Main Streamlit app
+├── Ice_cream selling data.csv # Sample dataset
+├── README.md
